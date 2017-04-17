@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumBesiegeMod", "Besieg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteBesiegeMod", "CompleteBesiegeMod\CompleteBesiegeMod.csproj", "{6A16F1F7-31C2-4CAE-9FD3-0C56BBD29757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockMod", "BlockMod\BlockMod.csproj", "{BB84A70C-12FF-4C52-833A-86C2AB9AF05C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,8 @@ Global
 		{F95A58C9-88D6-402D-9D8B-F1A969EEDC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A16F1F7-31C2-4CAE-9FD3-0C56BBD29757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6A16F1F7-31C2-4CAE-9FD3-0C56BBD29757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB84A70C-12FF-4C52-833A-86C2AB9AF05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB84A70C-12FF-4C52-833A-86C2AB9AF05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

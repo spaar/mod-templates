@@ -21,7 +21,7 @@ namespace CompleteBesiegeMod
 
     // You don't need to override this, if you leave it out it will default
     // to the current version.
-    public override string BesiegeVersion { get; } = "v0.25";
+    public override string BesiegeVersion { get; } = "v0.45";
 
     // You don't need to override this, if you leave it out it will default
     // to false.

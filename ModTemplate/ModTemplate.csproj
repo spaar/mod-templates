@@ -84,6 +84,9 @@
     <TemplateReference Include="MinimumBesiegeMod.csproj">
       <PathToProject>../BesiegeMod/MinimumBesiegeMod.csproj</PathToProject>
     </TemplateReference>
+	<TemplateReference Include="BlockMod.csproj">
+      <PathToProject>../BlockMod/BlockMod.csproj</PathToProject>
+    </TemplateReference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="TemplateBuilder, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
