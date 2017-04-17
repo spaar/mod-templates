@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateReport>
+  <ItemTemplates />
+  <ProjectTemplates>
+    <ProjectTemplate Path="..\CompleteBesiegeMod\_Definitions\_project.vstemplate.xml" Name="Complete Besiege Mod" Description="Besiege Mod targeting spaar's Mod Loader 1.0.0 with all optional fields included in the Mod class." ProjectType="CSharp" ProjectSubType="" />
+    <ProjectTemplate Path="..\BesiegeMod\_Definitions\_project.vstemplate.xml" Name="Minimal Besiege Mod" Description="A minimal Besiege mod for spaar's Mod Loader 1.x.x" ProjectType="CSharp" ProjectSubType="" />
+  </ProjectTemplates>
+  <Snippets />
+</TemplateReport>

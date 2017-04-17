@@ -1,0 +1,23 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Complete Besiege Mod</Name>
+    <Description>Besiege Mod targeting spaar's Mod Loader 1.0.0 with all optional fields included in the Mod class.</Description>
+    <DefaultName>BesiegeMod</DefaultName>
+    
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType></ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>    
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>sw-file-icon.png</Icon>
+    <TemplateID>c132598b-2225-4d78-866b-ae9ce4b9bb1f</TemplateID>
+    <!-- Indicates how many parent folders this item template should appear in -->
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="CompleteBesiegeMod.csproj" File="CompleteBesiegeMod.csproj" ReplaceParameters="true">      
+    </Project>
+  </TemplateContent>
+</VSTemplate>
